@@ -75,3 +75,8 @@ All repositories are released as **prior art**.
 © 2025 Joseph Deloza — **All Rights Reserved.**
 
 ---
+
+### Use of AI Assistance
+Some drafting and document-structuring tasks in this repository were completed with the help of AI-based writing and organizational tools under the direct supervision of the author.  
+All conceptual content, mathematical frameworks, and intellectual property remain the original work of **Joseph Deloza (AirmAiledCrawdad)**.  
+AI tools were used only for formatting, language refinement, and summary generation.
